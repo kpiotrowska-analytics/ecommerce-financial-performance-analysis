@@ -41,3 +41,12 @@ Social media marketing attracts high-value customers, but either the advertising
 **Business Implication & Strategy:** 
 The high proportion of discounts is strongly correlated with holiday seasonality and the active loyalty program. 
 *Recommendation:* Conduct a cohort analysis to verify whether customers acquired during periods of aggressive holiday promotions return in subsequent months to redeem their points. If so, the current discount policy is a justified customer acquisition cost. If they merely make one-off purchases, the discount allocation rules should be revised to more heavily incentivize repeat transactions.
+
+## Behind the Scenes: Data Architecture
+To ensure scalability and performance, the analysis was not built on flat tables. Instead, I developed a relational Data Model and utilized DAX for dynamic metrics.
+
+**Data Model (Star Schema):**
+![Data Model](images/data_model.png)
+
+**Dynamic DAX Measures:**
+![DAX Formula](images/dax_measure.png)
