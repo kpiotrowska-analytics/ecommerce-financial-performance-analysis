@@ -14,7 +14,7 @@ The entire data modeling, DAX calculations, and interactive dashboard were built
 ## Interactive Dashboard
 *(Note: You can download the `.xlsx` file from this repository to interact with the slicers and dynamic charts).*
 
-![Dashboard Preview](images/your_dashboard_screenshot.png)
+![Dashboard Preview](images/dashboard.png)
 
 ## Executive Summary & Strategic Recommendations
 
