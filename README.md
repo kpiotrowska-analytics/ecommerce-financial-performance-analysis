@@ -8,8 +8,8 @@ The entire data modeling, DAX calculations, and interactive dashboard were built
 ## Tools & Techniques
 * **Microsoft Excel:** Advanced formulas, Conditional Formatting.
 * **Power Query:** Data extraction, cleaning, and transformation.
-* **Power Pivot (Data Model):** Building a relational Star Schema (Fact and Dimension tables).
-* **DAX (Data Analysis Expressions):** Creating dynamic financial measures (Total Revenue, Gross Profit, Gross Margin %, Discount Impact %).
+* **Power Pivot:** Building a relational Star Schema (Fact and Dimension tables).
+* **DAX:** Creating dynamic financial measures (Total Revenue, Gross Profit, Gross Margin %, Discount Impact %).
 
 ## Interactive Dashboard
 *(Note: You can download the `.xlsx` file from this repository to interact with the slicers and dynamic charts).*
