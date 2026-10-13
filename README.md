@@ -24,6 +24,7 @@ The entire data modeling, DAX calculations, and interactive dashboard were built
 
 **Business Implication & Strategy:** 
 The company heavily relies on sales volume to drive its cash flow. This volume-driven approach poses a significant risk: the low margin in the core category means that any minor increase in costs could easily push it below the break-even point. 
+
 *Recommendation:* Implement a cross-selling strategy that bundles high-volume/low-margin products with high-margin items. Additionally, conduct a price elasticity analysis for the Electronics category; a marginal price increase of just 1-2% could generate millions in additional operating profit without severely impacting demand.
 
 **2. Profitability of Sales Channels**
@@ -32,6 +33,7 @@ The company heavily relies on sales volume to drive its cash flow. This volume-d
 
 **Business Implication & Strategy:** 
 Social media marketing attracts high-value customers, but either the advertising budget allocated there is insufficient or the purchasing process is overly complex. 
+
 *Recommendation:* Optimize the purchasing path within the Social Media channel. The company should increase its investment in social media campaigns directing traffic straight to the high-margin mobile application.
 
 **3. Margin Trends and Discount Impact**
@@ -40,6 +42,7 @@ Social media marketing attracts high-value customers, but either the advertising
 
 **Business Implication & Strategy:** 
 The high proportion of discounts is strongly correlated with holiday seasonality and the active loyalty program. 
+
 *Recommendation:* Conduct a cohort analysis to verify whether customers acquired during periods of aggressive holiday promotions return in subsequent months to redeem their points. If so, the current discount policy is a justified customer acquisition cost. If they merely make one-off purchases, the discount allocation rules should be revised to more heavily incentivize repeat transactions.
 
 ## Behind the Scenes: Data Architecture
