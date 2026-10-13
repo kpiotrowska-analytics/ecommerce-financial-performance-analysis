@@ -46,7 +46,9 @@ The high proportion of discounts is strongly correlated with holiday seasonality
 To ensure scalability and performance, the analysis was not built on flat tables. Instead, I developed a relational Data Model and utilized DAX for dynamic metrics.
 
 **Data Model (Star Schema):**
+
 ![Data Model](images/data_model.PNG)
 
 **Dynamic DAX Measures:**
+
 ![DAX Formula](images/dax_measure.PNG)
